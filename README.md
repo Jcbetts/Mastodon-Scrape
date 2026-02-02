@@ -1,2 +1,2 @@
 # Mastodon-Scrape
-A pasic web scrapper for mastodon
+A basic web scraper for mastodon
